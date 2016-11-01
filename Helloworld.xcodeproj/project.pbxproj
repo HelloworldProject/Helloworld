@@ -407,6 +407,7 @@
 				653398851DC901A70092965D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		653398861DC901A70092965D /* Build configuration list for PBXNativeTarget "HelloworldTests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +416,7 @@
 				653398881DC901A70092965D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
